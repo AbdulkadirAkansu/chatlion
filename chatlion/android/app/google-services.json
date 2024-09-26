@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "517118113910",
+    "project_id": "chatlion-dbead",
+    "storage_bucket": "chatlion-dbead.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517118113910:android:980621af9ad7d6fbb24757",
+        "android_client_info": {
+          "package_name": "com.example.chatlion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBUk0HiivL2Lw9YaNb0zni880TL9C_rPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
